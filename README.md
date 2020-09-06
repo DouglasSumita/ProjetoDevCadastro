@@ -18,7 +18,7 @@ Possibilidade de ter uma solução para gravar/listar de desenvolvedores.
 | email             | string | `SIM`       |
 | cidade            | string | `SIM`       |
 | formacao          | string | `NÃO`       |
-| tecnologias       | array  | `NÃO`       |
+| tecnologias       | string | `NÃO`       |
 
 ## Validações dos campos:
 Sem validação
